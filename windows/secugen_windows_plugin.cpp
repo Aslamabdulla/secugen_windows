@@ -6,7 +6,7 @@
 #include "include/secugen_windows/sgfplib.h"
 #include <vector>
 #include <thread>
-
+using namespace flutter:
 namespace secugen_windows {
 
 void SecugenWindowsPlugin::RegisterWithRegistrar(
